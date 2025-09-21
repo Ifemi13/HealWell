@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "HealWell",
+    "slug": "HealWell",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#C2E9FF"
+    },
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#C2E9FF"
+      }
+    }
+  }
+}
