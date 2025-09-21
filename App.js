@@ -32,9 +32,9 @@ function MainTabs() {
           } else if (route.name === 'Operational Info') {
             iconName = focused ? 'information-circle' : 'information-circle-outline';
           } else if (route.name === 'Journal') {
-            iconName = focused ? 'information-circle': 'information-circle-outline';
+            iconName = focused ? 'book': 'book-outline';
           } else if (route.name === 'Reminder') {
-            iconName = focused ? 'information-circle': 'information-circle-outline';
+            iconName = focused ? 'alarm': 'alarm-outline';
           }
           return <Ionicons name={iconName} size={size} color={color} />;
         },
