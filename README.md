@@ -1,73 +1,68 @@
-🏥 HealWell App
+HealWell App
+
 Empowering Patients in Post-Surgery Recovery
-📌 Overview
 
-HealWell is a patient-centered recovery companion designed to make post-surgery healing safer, simpler, and less stressful. Many patients leave the hospital with complicated discharge instructions that are hard to follow, leading to confusion, complications, and unnecessary readmissions.
 
-HealWell provides personalized recovery plans, visual guidance, and real-time support to help patients and caregivers feel confident throughout the recovery journey.
+Overview
 
-🎯 Problem
+HealWell is a patient-centered recovery companion designed to make post-surgery healing safer, simpler, and less stressful. Many patients leave the hospital with complex discharge instructions that are easy to forget or misunderstand, which can lead to complications and unnecessary readmissions.
 
-Patients often forget or misinterpret post-surgery instructions.
+HealWell provides personalized day to day recovery plans, visual guidance, and remindersto help its users stay on track.
 
-Caregivers lack clear guidance.
 
-Missed medications or neglected wound care can cause serious complications.
+Problem
 
-Hospitals face high readmission rates due to poor post-discharge follow-up.
+Patients often forget or misinterpret post-surgery instructions
 
-💡 Solution
+Patients often lack clear, step-by-step guidance
+
+Missed medications or neglected wound care can cause serious complications
+
+Hospitals face high readmission rates due to poor follow-up after discharge
+
+
+Solution
 
 HealWell delivers an intuitive mobile app experience that:
 
-Provides daily checklists and reminders.
+Offers daily tasks and reminders
 
-Uses visual step-by-step recovery guides.
+Provides images to further understanding with the user
 
-Allows secure messaging with care teams.
+Provides a list of things to keep in mind post and pre surgery
 
-Includes a symptom checker with escalation to alert doctors when something seems wrong.
 
-Enables patients to log pain and issues directly on a 3D body map with severity sliders for clarity.
+Key Features
 
-🔑 Key Features
+Personalized Recovery Plans – Tailored to surgery type (hip replacement, C-section, heart surgery, etc.)
 
-📅 Personalized Recovery Plans
-Tailored by surgery type (e.g., hip replacement, C-section, heart surgery).
+Reminders – Reminders to help with remembering appointments
 
-⏰ Timely Reminders
-For medication, wound dressing, movement exercises, and follow-ups.
+Visual Guides – Illustrations to help user understand instructions
 
-🖼️ Step-by-Step Visual Guides
-Illustrated and video instructions for safe self-care.
+Surgical Information – Overall rules and things to look out for post and pre surgery
 
-💬 Secure Messaging & Check-ins
-Patients can connect directly with nurses or doctors for support.
 
-🩻 3D Body Map Symptom Tracker
-Users tap on body areas to log pain, rashes, or swelling, with adjustable intensity sliders.
+Design Tools
 
-⚠️ Symptom Checker & Escalation
-Smart alerts notify patients or care teams when symptoms require attention.
+React-Native - Allows for mobile app
 
-🛠️ Design Tools
+GitHub - Allows for collaboration of code
 
-Canva → For presentation assets and UI moodboards.
+Canva - For presentation assets and visual moodboards
 
-Figma → For interactive prototypes, user flows, and design iterations.
 
-👥 Users & Benefits
+Users and Benefits
 
-Patients → Clear instructions, reduced anxiety, faster recovery.
+Patients – Clearer instructions, less anxiety, faster recovery
 
-Caregivers → Easy-to-follow support tools, better confidence in care.
+Caregivers – Confidence in providing proper support
 
-Healthcare Providers → Reduced readmissions, improved patient satisfaction, streamlined communication.
+Healthcare Providers – Lower readmission rates, better patient satisfaction, more efficient communication
 
-🚀 Future Enhancements
 
-Integration with smart pill dispensers or wearable vitals trackers.
+Future Enhancements
 
-AI-driven insights predicting complications earlier.
+Add more types of surguries and include a searching mechanism to find specific ones
 
-Multilingual voice assistant for accessibility.
+AI chat feature the user can ask questions to regarding thei9r surgury
