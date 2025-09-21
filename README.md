@@ -1,6 +1,6 @@
 ## HealWell App
 
-Empowering Patients in Post-Surgery Recovery
+Empowering Patients in Pre-Surgery and Post-Surgery Recovery
 
 
 ## Overview
